@@ -1,0 +1,4 @@
+#Sun Jun 14 02:52:47 GMT 2020
+base.0=/Users/pefum/AndroidStudioProjects/gwcl_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
